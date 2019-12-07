@@ -6,7 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="distributioncrowdparent" />
+        <module name="distributioncrowd1common" />
+        <module name="distributioncrowd2registrycenter" />
+        <module name="distributioncrowd3databaseprovider" />
+        <module name="distributioncrowd4redisprovider" />
       </profile>
     </annotationProcessing>
   </component>
