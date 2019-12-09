@@ -10,6 +10,7 @@
         <module name="distributioncrowd2registrycenter" />
         <module name="distributioncrowd3databaseprovider" />
         <module name="distributioncrowd4redisprovider" />
+        <module name="distributioncrowd5membermanager" />
       </profile>
     </annotationProcessing>
   </component>
